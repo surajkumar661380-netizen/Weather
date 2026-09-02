@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "Real-time minimalist weather application with hourly and 7-day forecasts, location search, and detailed metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
